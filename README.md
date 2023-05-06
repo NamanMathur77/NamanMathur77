@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I am Naman, a computer science student 💻. I like to make web and mobile applications and I am currently learning react.js. 
+ENGINNER | DEVELOPER
 
 ## My life Mantra
 One Life No Regrets 💕
@@ -18,12 +18,12 @@ One Life No Regrets 💕
 💬 Blogging<br>
 
 ## If you have any questions or ideas regarding
-React<br>
-Django<br>
+Angular<br>
+DotNet<br>
+Typescript<br>
+C#<br>
 Python<br>
-Blogging<br>
-Competitve Programming<br>
 Or anything else related to computers<br>
 
-## You can reach me with these ways
+## You can contact me in these ways
 ⬅ See here 🙃
